@@ -1,0 +1,8 @@
+# Archivos generados por NetBeans
+nbproject/
+build/
+dist/
+
+# Excluir los archivos de generación de NetBeans
+nbactions.xml
+nb-configuration.xml
